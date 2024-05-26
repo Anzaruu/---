@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C386nABi69xhjnYkYQXAtbOVpnE6NAzGQX70kTA3Bn3ihArMwlFhGeG3o0LvkQ6hugf3+uMr57wYAiF8aK4ZKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anna\\Documents\\СФМАИ\\Информатика\\2 семестр\\KrestikiNoliki\\KrestikiNoliki\\KrestikiNoliki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anna\\.nuget\\packages\\materialdesigncolors\\3.0.0\\materialdesigncolors.3.0.0.nupkg.sha512",
+    "C:\\Users\\Anna\\.nuget\\packages\\materialdesignthemes\\5.0.0\\materialdesignthemes.5.0.0.nupkg.sha512",
+    "C:\\Users\\Anna\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
